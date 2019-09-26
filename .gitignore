@@ -2,3 +2,5 @@ venv/
 .env
 .ipynb_checkpoints
 .vscode
+*.html
+ロケーション履歴/
